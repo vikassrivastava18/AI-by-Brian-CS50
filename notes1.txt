@@ -1,0 +1,8 @@
+Basics
+
+Agent -> Thing we get hold of for performing a task
+
+State -> Current configuration of the agent and surroundings
+
+Action -> An event leading to change of state
+
